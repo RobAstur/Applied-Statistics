@@ -17,6 +17,14 @@ Detailed descriptions of these problems can be found in the corresponding sectio
 
 ## Getting Help
 
-## contributing
+For any issue with this repository, please use the issues section of the repository. To create a new issue, follow these steps:
 
-## References
+Go to the Issues section. Click on New issue and provide a detailed description of the problem. For more information on creating and managing issues, see the GitHub Issues documentation ([Getting help](https://docs.github.com/en/issues))
+
+## Contributing
+
+If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Please include a detail description. if any issue is encouter please feel free to open an issue.
+
+---
+
+## END
