@@ -26,7 +26,7 @@ To work with this repository, the author recommends 2 options:
 
 For any issue with this repository, please use the issues section of the repository. To create a new issue, follow these steps:
 
-Go to the Issues section. Click on New issue and provide a detailed description of the problem. For more information on creating and managing issues, see the GitHub Issues documentation ([Getting help](https://docs.github.com/en/issues))
+Go to the Issues section. Click on New issue and provide a detailed description of the problem. For more information on creating and managing issues, see the GitHub Issues documentation ([Getting help](https://docs.github.com/en/issues)).
 
 ## Contributing
 
